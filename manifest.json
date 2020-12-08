@@ -1,8 +1,8 @@
 {
-    "name" : "外卖专享优惠",
-    "appid" : "",
+    "name" : "天天生活券",
+    "appid" : "__UNI__B4A0391",
     "description" : "",
-    "versionName" : "1.0.0",
+    "versionName" : "1.0.2",
     "versionCode" : "100",
     "transformPx" : false,
     "app-plus" : {
@@ -42,7 +42,7 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wx7d7f557e8ede05b1",
         "setting" : {
             "urlCheck" : true
         }

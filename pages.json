@@ -4,7 +4,7 @@
 	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
-		"navigationBarTitleText": "外卖专享优惠",
+		"navigationBarTitleText": "天天生活券",
 		"navigationBarBackgroundColor": "#007AFF",
 		"backgroundColor": "#FFFFFF",
 		"titleView": false,
