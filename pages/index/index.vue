@@ -36,11 +36,11 @@ export default {
 					text: '饿了么',
 					tabId: 1,
 				},
-				// {
-				// 	icon: '/static/meituan.png',
-				// 	text: '美团',
-				// 	tabId: 2,
-				// },
+				{
+					icon: '/static/meituan.png',
+					text: '美团',
+					tabId: 2,
+				},
 				// {
 				// 	icon: '/static/jd.png',
 				// 	text: '京东',
@@ -71,18 +71,18 @@ export default {
 						path: 'pages/sharePid/web/index?scene=https://s.click.ele.me/S4UMXtu'
 					}
 				},
-				// {
-				// 	name: '美团外卖红包',
-				// 	icon: '/static/coupon/meituan.png',
-				// 	bannerPic: '/static/coupon/meituan_banner.png',
-				// 	url:'https://runion.meituan.com/url?key=cd23768d09c339d1641b2738df39aa67&url=https%3A%2F%2Fi.meituan.com%2Fawp%2Fhfe%2Fblock%2Fa945391288b790d558b7%2F78716%2Findex.html%3Fappkey%3Dcd23768d09c339d1641b2738df39aa67%3Ajuhe&sid=juhe',
-				// 	type: 1,
-				// 	tabId: 2,
-				// 	minapp: {
-				// 		appid: 'wxde8ac0a21135c07d',
-				// 		path: '/index/pages/h5/h5?weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D591ec05930c57331c1212b936e6785c1%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa13b87919a9ace9cfab4%252F89400%252Findex.html%253Fappkey%253D591ec05930c57331c1212b936e6785c1%253A000001%26sid%3D000001&lch=cps:waimai:5:591ec05930c57331c1212b936e6785c1:000001&f_token=1&f_userId=1'
-				// 	}
-				// },
+				{
+					name: '美团外卖红包',
+					icon: '/static/coupon/meituan.png',
+					bannerPic: '/static/coupon/meituan_banner.png',
+					url:'https://runion.meituan.com/url?key=cd23768d09c339d1641b2738df39aa67&url=https%3A%2F%2Fi.meituan.com%2Fawp%2Fhfe%2Fblock%2Fa945391288b790d558b7%2F78716%2Findex.html%3Fappkey%3Dcd23768d09c339d1641b2738df39aa67%3Ajuhe&sid=juhe',
+					type: 1,
+					tabId: 2,
+					minapp: {
+						appid: 'wxde8ac0a21135c07d',
+						path: '/index/pages/h5/h5?weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3D591ec05930c57331c1212b936e6785c1%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa13b87919a9ace9cfab4%252F89400%252Findex.html%253Fappkey%253D591ec05930c57331c1212b936e6785c1%253A000001%26sid%3D000001&lch=cps:waimai:5:591ec05930c57331c1212b936e6785c1:000001&f_token=1&f_userId=1'
+					}
+				},
 				// {
 				// 	name: '爱奇艺会员',
 				// 	icon: '/static/coupon/vip.png',
